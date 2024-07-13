@@ -6,7 +6,7 @@
 
 ### Winners:
 
-1. In first place, @tobua wins $250 with Chinese Whisper AI. It's a really cool use of all the AI advances. Starts from a text, that is generating an image, which is described into an audio description and loops back to text. https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/5
+* In first place, @tobua wins $250 with Chinese Whisper AI. It's a really cool use of all the AI advances. Starts from a text, that is generating an image, which is described into an audio description and loops back to text. https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/5
 
 
 
@@ -14,7 +14,7 @@ https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/assets/197597/0
 
 
 
-2. In second place, @luisperezphd wins $150 for Gotta Paste Them All. What set it apart is the pokemon battle theme around the idea of copying from colored text -> screenshot -> text. https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/4
+* In second place, @luisperezphd wins $150 for Gotta Paste Them All. What set it apart is the pokemon battle theme around the idea of copying from colored text -> screenshot -> text. https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/4
 
 
 
@@ -22,7 +22,7 @@ https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/assets/197597/0
 
 
 
-3. In third place, @morenicogs wins $50 for Mom's Spaghetti. I grew up listening to Lose Yourself and this interpretation of the lyrics applied to the challenge of copying words, vomit and spaggheti wins on the creativity aspect! https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/6
+* In third place, @morenicogs wins $50 for Mom's Spaghetti. I grew up listening to Lose Yourself and this interpretation of the lyrics applied to the challenge of copying words, vomit and spaggheti wins on the creativity aspect! https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/6
 
 
 
@@ -30,7 +30,7 @@ https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/assets/197597/7
 
 
 
-4. Honorable mention for @evgenyvinnik with Mega Converter. It cycles through code encoded as text, translated to pdf, to image and back to text. The syntax highlighting makes it visually interesting. https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/1
+* Honorable mention for @evgenyvinnik with Mega Converter. It cycles through code encoded as text, translated to pdf, to image and back to text. The syntax highlighting makes it visually interesting. https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/1
 
 
 
@@ -38,7 +38,7 @@ https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/assets/197597/9
 
 
 
-5. Honorable mention for @Uzo2005 with copy-pasta. It cycles through various types of images. The drop in quality after every loop has a poetic aspect to it as things decay over time. https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/3
+* Honorable mention for @Uzo2005 with copy-pasta. It cycles through various types of images. The drop in quality after every loop has a poetic aspect to it as things decay over time. https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/3
 
 
 
@@ -46,7 +46,7 @@ https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/assets/197597/9
 
 
 
-6. Honorable mention for @alexlcpereira with Pâtes à la tomate. The interesting aspect is the UI where you keep pasting the variants in a 2d canvas. https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/2
+* Honorable mention for @alexlcpereira with Pâtes à la tomate. The interesting aspect is the UI where you keep pasting the variants in a 2d canvas. https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/2
 
 
 
