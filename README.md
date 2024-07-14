@@ -22,7 +22,7 @@ https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/assets/197597/0
 
 
 
-* In third place, @morenicogs wins $50 for Mom's Spaghetti. I grew up listening to Lose Yourself and this interpretation of the lyrics applied to the challenge of copying words, vomit and spaggheti wins on the creativity aspect! https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/6
+* In third place, @nicogs wins $50 for Mom's Spaghetti. I grew up listening to Lose Yourself and this interpretation of the lyrics applied to the challenge of copying words, vomit and spaggheti wins on the creativity aspect! https://github.com/Algorithm-Arena/weekly-challenge-5-copy-pasta/issues/6
 
 
 
